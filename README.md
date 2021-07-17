@@ -1,14 +1,14 @@
 # <a href="https://github.com/ashokcs/twilio-chatbot" target="_blank">Twilio Chatbot</a>
 
 # Author Introduction
-## I am Ashokchakravarthi Nagarajan pursuing Computer Application Development at Conestoga.
+* I am Ashokchakravarthi Nagarajan pursuing Computer Application Development at Conestoga.
 
 # App Description:
-## This application helps to take order from Human, in an interactive manner.
+* This application helps to take order from Human, in an interactive manner.
 
 # User Instructions:
-## To begin, user has to enter any message.
-## And then reply to the questions asked by bot.
+1. To begin, user has to enter any message.
+2. And then reply to the questions asked by bot.
 
 
 ## To run:
