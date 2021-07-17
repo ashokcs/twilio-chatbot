@@ -24,3 +24,6 @@
 2. Connect your Github repo to Heroku and Authorise for acces.
 3. Choose the branch to deploy.
 4. Finish the setup and use Access app option to open the Hosted app.
+
+## To Access the live application:
+`Go to https://twilio-chat-bot.herokuapp.com/`
