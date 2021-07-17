@@ -1,15 +1,14 @@
-# twilio-chatbot
 # <a href="https://github.com/ashokcs/twilio-chatbot" target="_blank">Twilio Chatbot</a>
 
-## Author Introduction
-# I am Ashokchakravarthi Nagarajan pursuing Computer Application Development at Conestoga.
+# Author Introduction
+## I am Ashokchakravarthi Nagarajan pursuing Computer Application Development at Conestoga.
 
-## App Description:
-# This application helps to take order from Human, in an interactive manner.
+# App Description:
+## This application helps to take order from Human, in an interactive manner.
 
-## User Instructions:
-# To begin, user has to enter any message.
-# And then reply to the questions asked by bot.
+# User Instructions:
+## To begin, user has to enter any message.
+## And then reply to the questions asked by bot.
 
 
 ## To run:
@@ -26,4 +25,4 @@
 4. Finish the setup and use Access app option to open the Hosted app.
 
 ## To Access the live application:
-`Go to https://twilio-chat-bot.herokuapp.com/`
+`Go to [App](https://twilio-chat-bot.herokuapp.com/)`
